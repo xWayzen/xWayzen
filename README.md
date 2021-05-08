@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @xWayzen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+const Rayan = {
+    info: {
+        name: "Rayan",
+        from: "France",
+        age: "undefined",
+    },
+    reseau: {
+        discord: "[xWayzen]#7715",
+        instagram: "undefined",
+        twitter: "undefined",
+        dsc.bio: "undefined",
+    languages: ["Python", "HTML", "LUA", "JavaScript", "BATCH-FILES", "JSON"]
+};
