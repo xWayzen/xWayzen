@@ -6,7 +6,7 @@ const Rayan = {
         age: "undefined",
     },
     reseau: {
-        discord: "[xWayzen]#7715",
+        discord: "xWayzen#1337",
         instagram: "undefined",
         twitter: "undefined",
         dsc.bio: "undefined",
